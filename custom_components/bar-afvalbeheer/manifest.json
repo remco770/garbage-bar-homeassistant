@@ -1,8 +1,8 @@
 {
-  "domain": "nissewaard",
-  "name": "Nissewaard garbage collection sensor",
-  "documentation": "https://github.com/Martinvdm/garbage-nissewaard-homeassistant/blob/master/README.md",
+  "domain": "bar_afvalbeheer",
+  "name": "BAR garbage collection sensor",
+  "documentation": "https://github.com/remco770/garbage-bar-homeassistant/blob/master/README.md",
   "dependencies": [],
-  "codeowners": ["@Martinvdm","@vloris"],
+  "codeowners": ["@Martinvdm","@vloris", "@remco770"],
   "requirements": []
 }
