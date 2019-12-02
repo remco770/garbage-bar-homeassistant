@@ -71,7 +71,7 @@ DEFAULT_BASEURL = 'https://wasteapi.2go-mobile.com/api/{}'
 DEFAULT_COMPANYCODE = 'bb58e633-de14-4b2a-9941-5bc419f1c4b0'
 DEFAULT_HEADERS = {
     'User-Agent': "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36",
-    'Referer': 'https://www.reinis.nl/afvalkalender'
+    'Referer': 'https://bar-afvalbeheer.nl'
 }
 
 
