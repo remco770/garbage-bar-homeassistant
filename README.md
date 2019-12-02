@@ -1,2 +1,18 @@
-# garbage-bar-homeassistant
-Garbage collection BAR for Home Assistant
+# Gemeente Barendrecht, Albrandswaard and Ridderkerk garbage collection in Home Assistant
+
+based on https://github.com/vloris/home-assistant/blob/master/custom_components/sensor/twentemilieu.py
+
+Gemeente Barendrecht, Albrandswaard and Ridderkerk sensor for garbage collection for Home Assistant
+
+
+```
+sensor:
+  - platform: bar-afvalbeheer
+    postcode: 0000XB
+    housenumber: 1
+    resources:
+      - today
+      - tomorrow
+      - green
+      - paper
+```
