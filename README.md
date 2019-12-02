@@ -1,6 +1,6 @@
 # Gemeente Barendrecht, Albrandswaard and Ridderkerk garbage collection in Home Assistant
 
-based on https://github.com/vloris/home-assistant/blob/master/custom_components/sensor/twentemilieu.py
+Based on https://github.com/vloris/home-assistant/blob/master/custom_components/sensor/twentemilieu.py
 
 Gemeente Barendrecht, Albrandswaard and Ridderkerk sensor for garbage collection for Home Assistant
 
