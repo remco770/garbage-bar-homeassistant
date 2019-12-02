@@ -1,1 +1,1 @@
-"""Nissewaard garbage collection sensor"""
+"""BAR garbage collection sensor"""
