@@ -1,5 +1,11 @@
 # Garbage collection sensor for BAR for Home Assistant
 
+Garbage collection for the following cities in the Netherlands
+
+- Albrandswaard
+- Barendrecht
+- Ridderkerk
+
 in your configuration.yaml you'll need:
 
 ```yaml
