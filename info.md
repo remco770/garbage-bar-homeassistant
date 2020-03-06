@@ -10,16 +10,14 @@ in your configuration.yaml you'll need:
 
 ```yaml
 sensor:
-  - platform: bar_afvalbeheer
-    postcode: 0000AA
+  - platform: bar-afvalbeheer
+    postcode: 0000XB
     housenumber: 1
     resources:
       - today
       - tomorrow
-      - grey
       - green
       - paper
-      - packages
 ```
 
 It will create sensors for the next few future calendar events, called:
