@@ -16,4 +16,5 @@ sensor:
       - grey
       - green
       - paper
+      - packages
 ```
