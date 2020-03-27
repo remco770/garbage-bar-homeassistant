@@ -32,6 +32,7 @@ SENSOR_TYPES = {
     'grey': ['Restafval', 'mdi:recycle'],
     'paper': ['Papier en karton', 'mdi:recycle'],
     'green': ['Groente, fruit- en tuinafval', 'mdi:recycle'],
+    'packages': ['PMD', 'mdi:recycle']
 }
 
 PLATFORM_SCHEMA = PLATFORM_SCHEMA.extend({
