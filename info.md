@@ -16,6 +16,7 @@ sensor:
     resources:
       - today
       - tomorrow
+      - grey
       - green
       - paper
 ```
@@ -24,7 +25,6 @@ It will create sensors for the next few future calendar events, called:
 
 * sensor.bar_afvalbeheer_groente_fruit_en_tuinafval
 * sensor.bar_afvalbeheer_papier_en_karton
-* sensor.bar_afvalbeheer_pmd
 * sensor.bar_afvalbeheer_restafval
 
 and extra sensors:
