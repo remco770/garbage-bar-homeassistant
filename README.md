@@ -13,6 +13,7 @@ sensor:
     resources:
       - today
       - tomorrow
+      - grey
       - green
       - paper
 ```
