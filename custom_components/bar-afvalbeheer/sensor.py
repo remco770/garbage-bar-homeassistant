@@ -29,6 +29,7 @@ CONF_HOUSENUMBER = 'housenumber'
 SENSOR_TYPES = {
     'today': ['Vandaag', 'mdi:recycle'],
     'tomorrow': ['Morgen', 'mdi:recycle'],
+    'grey': ['Restafval', 'mdi:recycle'],
     'paper': ['Papier en karton', 'mdi:recycle'],
     'green': ['Groente, fruit- en tuinafval', 'mdi:recycle'],
 }
