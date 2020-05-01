@@ -30,8 +30,8 @@ SENSOR_TYPES = {
     'today': ['Vandaag', 'mdi:recycle'],
     'tomorrow': ['Morgen', 'mdi:recycle'],
     'grey': ['Restafval', 'mdi:recycle'],
-    'paper': ['Papier en karton', 'mdi:recycle'],
-    'green': ['Groente, fruit- en tuinafval', 'mdi:recycle'],
+    'paper': ['Papier', 'mdi:recycle'],
+    'green': ['GFT', 'mdi:recycle'],
     'packages': ['PMD', 'mdi:recycle']
 }
 
