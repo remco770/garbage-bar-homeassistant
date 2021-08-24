@@ -1,4 +1,5 @@
 {
+  "version": "1.4",
   "domain": "bar_afvalbeheer",
   "name": "BAR garbage collection sensor",
   "documentation": "https://github.com/remco770/garbage-bar-homeassistant/blob/master/README.md",

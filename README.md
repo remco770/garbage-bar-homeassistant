@@ -7,7 +7,7 @@ Gemeente Barendrecht, Albrandswaard and Ridderkerk sensor for garbage collection
 
 ```
 sensor:
-  - platform: bar-afvalbeheer
+  - platform: bar_afvalbeheer
     postcode: 0000XB
     housenumber: 1
     resources:
